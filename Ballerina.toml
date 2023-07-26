@@ -1,0 +1,12 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.3.1"
+  export = ["ftp_new_file_to_mongodb_vfs"]
+  icon = "docs/icon.png"
+  keywords = ["Kind/Sample","Type/Webhook","Category/Integration","Internal/ftp"]
+  name = "ftp_new_file_to_mongodb_vfs"
+  org = "lashansivaganeshan"
+  version = "3.1.0"
+
